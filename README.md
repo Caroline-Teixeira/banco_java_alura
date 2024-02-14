@@ -1,6 +1,6 @@
 <h1>Banco</h1>
 
-Desafio que fiz durante o curso de Java da escola Alura
+Desafio que fiz durante o curso de Java: aplicando a Orientação a Objetos da escola Alura
 
 <h4>Linguagens</h4>
 <img src=https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white>
